@@ -8,6 +8,7 @@ api = "*"
 requests = "*"
 pylint = "*"
 autopep8 = "*"
+selenium = "*"
 
 [dev-packages]
 
