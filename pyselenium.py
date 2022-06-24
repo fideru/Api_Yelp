@@ -15,6 +15,6 @@ signin_link.click()
 username = driver.find_element(by=id("login_field"))
 username.send_keys("fideru")
 password = driver.find_element(by=id("password"))
-password.send_keys("z3r0xExE")
+password.send_keys("***********")
 
 driver.quit()
